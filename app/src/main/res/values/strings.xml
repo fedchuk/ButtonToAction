@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ButtonToAction</string>
+    <string name="btn_title">Action</string>
+    <string name="notif_title">Notification</string>
+    <string name="notif_body">Action is Notification!</string>
+    <string name="toast_text">Action is Toast!</string>
+    <string name="notification_permission">Notification Permission</string>
+    <string name="notification_permission_is_required">Notification permission is required, Please allow notification permission from setting</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancel</string>
+    <string name="alert">Alert</string>
+    <string name="alert_notif_text">Notification permission is required, to show notification</string>
+</resources>
